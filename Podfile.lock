@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 9d99193bc4df9ab790dbbcab9007d1de7f33be6c
+PODS:
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - RxSwift (from `./RxSwift`)
+
+EXTERNAL SOURCES:
+  RxSwift:
+    :path: "./RxSwift"
+
+SPEC CHECKSUMS:
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 9d62d856711469e6a6e8f2ea22a29da254aad3e8
 
 COCOAPODS: 1.11.3
